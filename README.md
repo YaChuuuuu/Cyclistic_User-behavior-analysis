@@ -5,8 +5,8 @@ Spreadsheets, BigQuery (GCP), Looker studio
 ## 背景假設
 Cyclistic是一家虛擬的自行車共享公司，其中使用者分成兩種：
 
-  **一般使用者 (Casual riders)**：購買單日券或是多日劵的使用者
-  **年費會員 (Annual members)**: 使用年費制度的會員
+  1. **一般使用者 (Casual riders)**：購買單日券或是多日劵的使用者
+  2. **年費會員 (Annual members)**: 使用年費制度的會員
 
 根據財務分析師，**年費會員**帶來較高的收益。
 
