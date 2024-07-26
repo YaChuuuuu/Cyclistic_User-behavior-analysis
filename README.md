@@ -1,5 +1,5 @@
 # Cyclistic_User-behavior-analysis
-Google data analytics (Coursera) 課程 Case study，資料來自
+Google data analytics (Coursera) 課程 Case study，資料來自公開的虛擬資料集
 ## 使用技能
 Spreadsheets, BigQuery (GCP), Looker studio
 ## 背景假設
